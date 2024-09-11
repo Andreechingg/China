@@ -1,0 +1,15 @@
+body {
+  background-color: cadetblue;
+}
+div {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.titulo p {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 50px;
+  color: honeydew;
+}
+.texto p {
+}
